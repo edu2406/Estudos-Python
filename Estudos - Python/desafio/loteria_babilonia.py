@@ -39,7 +39,7 @@ for i in range(3):
 else:
     print("Suas tentativas acabaram. O número sorteado era:", numero_sorteio)
 
- 
+
 
 # tentativas = 3
 # while tentativas >= 0:
